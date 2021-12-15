@@ -1,0 +1,7 @@
+Se han realizado las predicciones satisfactoriamente
+Modelo: 1
+Id imagen: 0.tiff Clase: Molinillo 
+Id imagen: 1.tiff Clase: Molinillo 
+Modelo: 2
+Id imagen: 0.tiff Clase: Molinillo 
+Id imagen: 1.tiff Clase: Molinillo 
